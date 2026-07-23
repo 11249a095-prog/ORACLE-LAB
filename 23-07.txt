@@ -153,7 +153,7 @@ SQL> select * from student;
 
 REGNO      NAME            DOB       G COURS       YEAR DEPTNAME
 ---------- --------------- --------- - ----- ---------- ----------
-11249A095  sai            22-JAN-07 f btech          3 cse
+11249A095  sai            14-oct-06 f btech          3 cse
 11249A179  uma
 
 SQL> insert into student('&regno','&name,'&dob','&gender','&course_name',&year,'&deptname');
@@ -185,7 +185,7 @@ SQL> select * from student;
 
 REGNO      NAME            DOB       G COURS       YEAR DEPTNAME
 ---------- --------------- --------- - ----- ---------- ----------
-11249A095  sai            14-oct-06 f btech          3 cse
+11249A095  sai             14-oct-06 f btech          3 cse
 11249A179  uma
 11249A147  likitha         22-DEC-05 f aiml           3 cse
 
